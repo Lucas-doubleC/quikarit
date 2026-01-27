@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools >= 77.0.3"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "quikarit"
+version = "1.0.0"
+keywords = ["quikarit", "math", "QoL", "Quality of Life"]
+authors = [
+  {name = "Lucas da Costa", email = "lucasdacostacampos8@example.com"}
+]
+maintainers = [
+  {name = "Lucas da Costa", email = "lucasdacostacampos8@example.com"}
+]
+description = "Quikarit adds some QoL functions to python, including sorting algorithms and matrix functions."
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+classifiers = [
+    "Programming Language :: Python :: 3",
+]
+[project.urls]
+Docs = "quikarit.rf.gd"
