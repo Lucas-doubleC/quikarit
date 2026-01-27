@@ -1,2 +1,3 @@
-#### quikarit lib
-Please leave suggestions for useful functions here!
+# QuikArit, not so quick as you think
+Math functions are cool, but do you know what's cooler? Miscellaneous ones, with a little bit of sorting algorithms and logic gates!
+Please refer to the docs regarding its usage: [Docs](quickarit.rf.gd)
